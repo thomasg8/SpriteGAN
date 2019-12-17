@@ -1,5 +1,5 @@
 # Using GANs for Sprite Generation
-A Generative Adversarial Network for creating character sprites. 
+A Generative Adversarial Network for creating character sprites. Please read SpriteGAN.pdf if you are interested in finding out more.
 
 ## Generating Images
 To generate character sprites for yourself, run gen150img.py. It will create a folder and generate 150 sprites. 
